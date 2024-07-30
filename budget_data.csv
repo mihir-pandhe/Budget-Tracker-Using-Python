@@ -1,3 +1,4 @@
-Type,Amount,Category
-Income,10000.0,Job
-Expense,2000.0,House
+Type,Amount,Category,Date
+Income,10000.0,Job,2024-08-01
+Expense,1000.0,House,2024-08-04
+Expense,3000.0,House,2024-08-06
